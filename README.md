@@ -18,6 +18,7 @@
 
 
 ### 주요 내용
+![simulation-example](./assets/simulator-scenario-test-with-evaluation.png)
 
 * 레벨4이상의 자율주행 테스트를 위한 시뮬레이터 기능 요구사항 정의
 * ODD 기반의 단일/복합 시나리오 설계 및 평가
